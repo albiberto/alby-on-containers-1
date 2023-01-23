@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbyOnContainers.ProductDataManager", "AlbyOnContainers.ProductDataManager\AlbyOnContainers.ProductDataManager.csproj", "{352D0D51-D8B6-4C6F-A8AC-42F4D2A927E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352D0D51-D8B6-4C6F-A8AC-42F4D2A927E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352D0D51-D8B6-4C6F-A8AC-42F4D2A927E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352D0D51-D8B6-4C6F-A8AC-42F4D2A927E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352D0D51-D8B6-4C6F-A8AC-42F4D2A927E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
